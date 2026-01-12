@@ -3,13 +3,10 @@
 ![PyPI](https://img.shields.io/pypi/v/reposcope-ai)
 ![Python](https://img.shields.io/pypi/pyversions/reposcope-ai)
 ![License](https://img.shields.io/github/license/Siggmond/reposcope-ai)
-![PyPI](https://img.shields.io/pypi/v/reposcope-ai)
-![Python](https://img.shields.io/pypi/pyversions/reposcope-ai)
-![License](https://img.shields.io/github/license/Siggmond/reposcope-ai)
 ![GitHub Actions](https://img.shields.io/github/actions/workflow/status/Siggmond/reposcope-ai/reposcope.yml)
+![GitHub stars](https://img.shields.io/github/stars/Siggmond/reposcope-ai?style=social)
 ![CLI](https://img.shields.io/badge/interface-CLI-blue)
 ![GitHub Action](https://img.shields.io/badge/GitHub-Action-2088FF)
-![Repo Analysis](https://img.shields.io/badge/domain-repository--analysis-orange)
 
 
 
